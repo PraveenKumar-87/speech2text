@@ -1,4 +1,5 @@
 numpy
+libsndfile1-dev
 tensorflow == 1.0.0
 sugartensor==1.0.0.2
 pandas==0.19.2
