@@ -1,0 +1,3 @@
+wget https://modeldepot.io/dhruvk/wavenet-speech-to-text?md-download-model=true -O wavenet_pretrained.zip
+mkdir -p asset/train
+unzip wavenet_pretrained.zip -d asset/train
